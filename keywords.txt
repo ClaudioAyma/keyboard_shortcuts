@@ -1,8 +1,8 @@
-:pandas
-import pandas as pd
-df = pd.read_csv('Your.csv')
+:shortcut1
+This text will be generated
+when you write ":shortcut1"
 ----
-:test
-this is the test's text that
-will be write
+>pandas
+import pandas as pd
+df = pd.read(yourcsv)
 ----
