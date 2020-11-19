@@ -19,9 +19,9 @@ To write a shortcut, the first line is the `shortcut` as such and the` generated
 
 This is the script you must run to use all the shortcuts registered in your `keywords.txt`
 
-''
+```
 $ python app.py
-''
+```
 
 Now you can try your shortcuts
 
